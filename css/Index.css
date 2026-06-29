@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arimo;
+  box-sizing: border-box;
+  /* background-color:rgb(228, 200, 200); */
+}
+
+/* HEADING CSS */
+
+#main_heading {
+  background-image: url(/images/mars_academy.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+  text-align: left;
+  color: black;
+}
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+h2 {
+  text-align: center;
+  font-size: 1.75rem;
+  color: #333333;
+}
+
+/* BODY CSS */
+
+body {
+  /* font-family: Poppins, sans-serif; */
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* DIV CSS */
+
+div {
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+/* CLASS CSS */
+
+/* .hero { 
+  background: linear-gradient(to right, #0066cc, #ff6b6b);
+  color: white;
+  text-align: center;
+  padding: 80px;
+}*/
+
+.hero h2 {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.coursesDiv {
+  background: rgb(235, 228, 233);
+  border: 2px solid black;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.certification {
+  padding: 5px 5px;
+}
+
+.testimonial {
+  padding: 5px 5px;
+}
+
+/* NAVBAR CSS */
+
+.navbar {
+  background-color: rgb(235, 91, 91);
+  border: 2px solid black;
+  height: 5vh;
+  text-align: center;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+nav a:hover {
+  color: #aa9f9f;
+}
+
+/* TABLE CSS */
+
+th,
+td {
+  border: 2px solid black;
+}
+tr:hover {
+  background-color: aqua;
+}
+td a {
+  opacity: 0.5;
+}
+td a:hover {
+  opacity: initial;
+}
+
+/* FORM CSS */
+
+form {
+  display: flex;
+  text-align: center;
+}
+
+/* BUTTON CSS */
+
+button {
+  background-color: bisque;
+  padding: 10px 10px;
+  border-radius: 13%;
+  margin: 10px 10px;
+}
+button a {
+  text-decoration: none;
+  color: black;
+  font-style: italic;
+}
+
+/* FOOTER CSS */
+
+footer {
+  text-align: center;
+}
