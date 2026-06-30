@@ -7,7 +7,7 @@
   --accent: #e07b2a;
   --accent-hover: #c0621a;
 
-  /* SECONDARY COLORS */
+  /* BACKGROUNDS */
   --page-background: #f4f7fb;
   --section-background: #ffffff;
   --alternate-section-bg: #eaf1fa;
@@ -17,7 +17,7 @@
   --body-text: #333333;
   --heading-text: #1a3c6e;
   --secondary-text: #6b7280;
-  --text-on-dark-backgrounds: #bdd7ee;
+  --text-on-dark: #bdd7ee;
 
   /* LINKS */
   --default-link: #2e75b6;
